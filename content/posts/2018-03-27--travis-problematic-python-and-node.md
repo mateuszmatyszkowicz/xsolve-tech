@@ -1,5 +1,5 @@
 ---
-title: Travis - problematic Python and Node
+title: Travis -
 cover: /img/travis.png
 tags:
   - Travis
